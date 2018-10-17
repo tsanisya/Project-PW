@@ -199,3 +199,91 @@ footer{
 	padding-top: 20px;
 	padding-bottom: 
 }
+
+#jabatan{
+	font-family: arial;
+	font-size: 20px;
+	text-align: center;
+	word-spacing: 160px;
+	padding-bottom: 40px;
+	margin-bottom: 0px;
+}
+#rektor{
+	position: relative;
+	top:305px;
+	right: 550px;
+}
+#nama1{
+	position: relative;
+	left: 20px;
+	top: 100px;
+	font-size: 30px;
+	font-family: arial;
+	color: #000F99;
+}
+#parag1{
+	position: relative;
+	left: 483px;
+	top: 79px;
+	font-size: 20px;
+	font-family: arial;
+}
+#parag2{
+	position: relative;
+	left: 700px;
+	top: -77px;
+	font-size: 20px;
+	font-family: arial;
+}
+#atas{
+	position: relative;
+	bottom: 10px;
+	text-align: center;
+	font-size: 40px;
+	font-family: arial;
+	color: #1F1F99;
+}
+#dekan{
+	position: relative;
+	left: 635px;
+	top: 10px;
+	font-family: arial;
+}
+#wd1{
+	position: relative;
+	left: 350px;
+	bottom: 10px;
+}
+#wd2{
+	position: relative;
+	left: 530px;
+	bottom: 10px;
+}
+#wd3{
+	position: relative;
+	left: 705px;
+	bottom: 10px;
+}
+#jabatan1{
+	font-family: arial;
+	font-size: 20px;
+	text-align: center;
+	word-spacing: 160px;
+	padding-bottom: 40px;
+	margin-bottom: 0px;
+	margin-top: 0px;
+}
+#fotodekan{
+	position: relative;
+	top: 330px;
+	right: 170px;
+	width: 180px;
+}
+#nama2{
+	position: relative;
+	left: 20px;
+	top: 100px;
+	font-size: 30px;
+	font-family: arial;
+	color: #000F99;
+}
